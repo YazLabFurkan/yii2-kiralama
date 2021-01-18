@@ -52,7 +52,7 @@ Modül içerisindeki migration dosyasında modül içerisinde kullanılacak 2 ad
 ![](image/migration.png)
 
 # Modül index sayfası aşağıdaki gibidir.
-image
+
 ![](image/modül.png)
 
 # Modül kiralama sayfası aşağıdaki gibidir.
